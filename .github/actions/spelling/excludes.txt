@@ -1,0 +1,5 @@
+^\.github/
+ignore$
+^package
+^License
+^\.travis\.yml$

@@ -1,0 +1,3 @@
+sha256:[0-9a-f]+
+(?:assertUnknownFromFlag|assertUnknownHealthcheckFlag|testValidArgument|validateDockerfile|validate)\(.*\)
+
